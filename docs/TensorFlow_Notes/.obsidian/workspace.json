@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "79ae7caf66d2e553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyEnv - Why to use.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MyEnv - Why to use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MyEnv - Why to use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MyEnv - Why to use.md"
+              }
             }
           }
         ]
@@ -138,6 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c834b5598ed5924",
-  "lastOpenFiles": []
+  "active": "79ae7caf66d2e553",
+  "lastOpenFiles": [
+    "MyEnv - Why to use.md",
+    "Untitled"
+  ]
 }
