@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a3813d6176fe32f",
+        "id": "87dbd2db1ac6d775",
         "type": "tabs",
         "children": [
           {
-            "id": "5c834b5598ed5924",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "79ae7caf66d2e553",
+            "id": "6236c15d3787f48a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyEnv - Why to use.md",
+                "file": "Deep_Learning_with_TensorFlow_2.0/2 - Introduction to neural network/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c9c1c533f80d0d30",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyEnv - Why to use.md",
+                "file": "Deep_Learning_with_TensorFlow_2.0/2 - Introduction to neural network/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyEnv - Why to use.md",
+                "file": "Deep_Learning_with_TensorFlow_2.0/2 - Introduction to neural network/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyEnv - Why to use.md"
+                "file": "Deep_Learning_with_TensorFlow_2.0/2 - Introduction to neural network/Notes.md"
               }
             }
           }
@@ -155,9 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79ae7caf66d2e553",
+  "active": "6236c15d3787f48a",
   "lastOpenFiles": [
-    "MyEnv - Why to use.md",
-    "Untitled"
+    "Pasted image 20231216125808.png",
+    "Pasted image 20231216125735.png",
+    "Pasted image 20231216125705.png",
+    "Pasted image 20231216125555.png",
+    "Pasted image 20231216123833.png",
+    "Pasted image 20231216120318.png",
+    "Deep_Learning_with_TensorFlow_2.0/2 - Introduction to neural network/Slides/2.pdf",
+    "Deep_Learning_with_TensorFlow_2.0/2 - Introduction to neural network/Slides/2.3.pdf",
+    "Deep_Learning_with_TensorFlow_2.0/2 - Introduction to neural network/Slides/2.2.pdf",
+    "Deep_Learning_with_TensorFlow_2.0/2 - Introduction to neural network/Notes.md",
+    "Deep_Learning_with_TensorFlow_2.0/2 - Introduction to neural network/Slides",
+    "DevelopmentNotes/MyEnv - Why to use.md",
+    "Deep_Learning_with_TensorFlow_2.0/14 - Linear Algebra Fundamentals",
+    "Deep_Learning_with_TensorFlow_2.0/13 - Business case",
+    "Deep_Learning_with_TensorFlow_2.0/12 - MNIST example",
+    "Deep_Learning_with_TensorFlow_2.0/11 - Preprocessing",
+    "Deep_Learning_with_TensorFlow_2.0/10 - Gradient descent and learning rates",
+    "Deep_Learning_with_TensorFlow_2.0/9 - Initialization",
+    "Untitled.md"
   ]
 }
